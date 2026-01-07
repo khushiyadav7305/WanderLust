@@ -19,9 +19,13 @@ This project is currently under development with basic functionality; additional
 This project demonstrates **full-stack development skills**, including building responsive frontend interfaces, backend routing, and database management.  
 Ideal for showcasing **practical web development skills** as a fresher.
 
-## Screenshots / Demo
+## Screenshots 
+<img width="1918" height="898" alt="Screenshot 2026-01-07 104755" src="https://github.com/user-attachments/assets/57011b50-4529-49c0-b2c9-84f6bb872f8e" />
 
-![Wanderlust Demo]("C:\Users\LENOVO\Videos\wanderlustGIF.gif")
+<img width="1918" height="892" alt="Screenshot 2026-01-07 104832" src="https://github.com/user-attachments/assets/e590f039-f008-44a4-8906-15ec3da7bf68" />
+
+<img width="1892" height="904" alt="Screenshot 2026-01-07 104850" src="https://github.com/user-attachments/assets/0e5df227-b6ed-4fc0-8073-2c8cc5192193" />
+
 
 
 ## How to Run
