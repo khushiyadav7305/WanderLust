@@ -1,7 +1,7 @@
 # Wanderlust – Travel Web Application
 
-Wanderlust is a **responsive travel web application** featuring frontend development in React.js, backend using Node.js and EJS, and database integration.  
-This project is currently under development with basic functionality; additional features and enhancements may be added in future updates.
+Wanderlust is a responsive travel web app built with React.js, Node.js, EJS, and database integration.  
+Currently features basic functionality, with more enhancements planned for future updates.
 
 ## Features
 - Responsive frontend using React.js for clean UI and user interactions
